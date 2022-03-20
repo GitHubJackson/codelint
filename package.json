@@ -1,0 +1,22 @@
+{
+  "name": "js-pro-cli",
+  "version": "1.0.0",
+  "description": "js项目模板",
+  "author": "JacksonZhou",
+  "license": "MIT",
+  "main": "./bin/index.js",
+  "bin": {
+    "js-pro-cli": "./bin/index.js"
+  },
+  "devDependencies": {
+    "chalk": "4.1.2",
+    "commander": "^9.1.0",
+    "download-git-repo": "^3.0.2",
+    "fs-extra": "^10.0.1",
+    "handlebars": "^4.7.7",
+    "inquirer": "^8.2.1",
+    "log-symbols": "4.1.0",
+    "ora": "5.4.0",
+    "update-notifier": "^5.1.0"
+  }
+}
