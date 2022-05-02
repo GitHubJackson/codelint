@@ -1,14 +1,14 @@
 {
-  "name": "js-pro-cli",
-  "version": "1.0.0",
+  "name": "@jacksonzhou52017/jupiter",
+  "version": "1.0.1",
   "description": "js项目模板",
   "author": "JacksonZhou",
   "license": "MIT",
   "main": "./bin/index.js",
   "bin": {
-    "js-pro-cli": "./bin/index.js"
+    "jupiter": "./bin/index.js"
   },
-  "devDependencies": {
+  "dependencies": {
     "chalk": "4.1.2",
     "commander": "^9.1.0",
     "download-git-repo": "^3.0.2",

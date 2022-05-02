@@ -1,12 +1,12 @@
-# js-pro-cli
+# @jacksonzhou52017/jupiter
 
 用于快速搭建 js 项目的脚手架
 
 ## 使用
 
 ```
-npm i -g js-pro-cli
-js-pro-cli init newApp
+npm i -g @jacksonzhou52017/jupiter
+jupiter init myapp
 ```
 
 ## 版本特性
