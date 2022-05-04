@@ -1,6 +1,6 @@
 {
   "name": "@jacksonzhou52017/jupiter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "js项目模板",
   "author": "JacksonZhou",
   "license": "MIT",
@@ -18,5 +18,13 @@
     "log-symbols": "4.1.0",
     "ora": "5.4.0",
     "update-notifier": "^5.1.0"
+  },
+  "homepage": "https://blog.zhouweibin.top/",
+  "bugs": {
+    "url": "https://github.com/GitHubJackson/jupiter/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GitHubJackson/jupiter"
   }
 }
