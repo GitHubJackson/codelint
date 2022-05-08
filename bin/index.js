@@ -17,7 +17,6 @@ program
   });
 
 program.on("--help", () => {
-  // 新增说明信息
   console.log(
     `\r\nRun ${chalk.cyan(
       `zr <command> --help`
@@ -30,7 +29,7 @@ program
   .name("jupiter")
   .usage("<commands> [options]")
   .command("init <project_name>")
-  .description("Create a project.")
+  .description("create a new project.")
   .action((project) => {
     initProject(project);
   });
