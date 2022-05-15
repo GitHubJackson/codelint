@@ -1,17 +1,14 @@
-# @jacksonzhou52017/jupiter
+# @jacksonzhou52017/codelint
 
-用于快速搭建 js 项目的脚手架
+用于快速统一项目代码规范的 CLI 工具
 
 ## 使用
 
+```bash
+npm i -g @jacksonzhou52017/codelint
+# 进入项目目录中执行以下命令
+codelint
 ```
-npm i -g @jacksonzhou52017/jupiter
-jupiter init myapp
-```
-
-## 版本特性
-
-跟踪 https://github.com/GitHubJackson/fe-engineering/issues/4
 
 ## 最后
 

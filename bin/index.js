@@ -26,10 +26,10 @@ program.on("--help", () => {
 
 // init 初始化项目
 program
-  .name("jupiter")
+  .name("codelint")
   .usage("<commands> [options]")
-  .command("init <project_name>")
-  .description("create a new project.")
+  // .command("init <project_name>")
+  // .description("create a new project.")
   .action((project) => {
     initProject(project);
   });

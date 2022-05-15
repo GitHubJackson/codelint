@@ -1,12 +1,12 @@
 {
-  "name": "@jacksonzhou52017/jupiter",
-  "version": "1.0.3",
-  "description": "js项目模板",
+  "name": "@jacksonzhou52017/codelint",
+  "version": "1.0.0",
+  "description": "自动化统一项目代码规范的工具",
   "author": "JacksonZhou",
   "license": "MIT",
   "main": "./bin/index.js",
   "bin": {
-    "jupiter": "./bin/index.js"
+    "codelint": "./bin/index.js"
   },
   "dependencies": {
     "chalk": "4.1.2",
@@ -17,14 +17,15 @@
     "inquirer": "^8.2.1",
     "log-symbols": "4.1.0",
     "ora": "5.4.0",
+    "shelljs": "^0.8.5",
     "update-notifier": "^5.1.0"
   },
   "homepage": "https://blog.zhouweibin.top/",
   "bugs": {
-    "url": "https://github.com/GitHubJackson/jupiter/issues"
+    "url": "https://github.com/GitHubJackson/codelint/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/GitHubJackson/jupiter"
+    "url": "https://github.com/GitHubJackson/codelint"
   }
 }
