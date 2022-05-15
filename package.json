@@ -1,6 +1,6 @@
 {
   "name": "@jacksonzhou52017/codelint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "自动化统一项目代码规范的工具",
   "author": "JacksonZhou",
   "license": "MIT",
