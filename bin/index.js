@@ -11,7 +11,7 @@ program.version(require("../package.json").version, "-v, --version");
 // 检查更新
 program
   .command("upgrade")
-  .description("Check the jupiter version.")
+  .description("Check the codelint version.")
   .action(() => {
     updateChk();
   });
