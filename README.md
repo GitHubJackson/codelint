@@ -10,6 +10,9 @@ npm i -g @jacksonzhou52017/codelint
 codelint
 ```
 
+## 版本跟踪
+https://github.com/GitHubJackson/fe-engineering/issues/7
+
 ## 最后
 
 该项目持续更新中，欢迎 comment！
